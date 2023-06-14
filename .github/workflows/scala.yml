@@ -38,4 +38,4 @@ jobs:
       with:
         name: Archive jar
         path: | 
-          target/*.jar
+          target/**/*.jar
